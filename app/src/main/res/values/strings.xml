@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PR_8 Справочник контактов</string>
+    <string name="title_screen">Справочник контактов (SQLite / Языки)</string>
+    <string name="hint_name">Имя контакта (напр. Михаил Голдун)</string>
+    <string name="hint_phone">Номер телефона (напр. +7 999 123-45-67)</string>
+    <string name="btn_save">Сохранить в локальную БД</string>
+    <string name="btn_view">Показать сохраненные данные</string>
+    <string name="btn_clear">Очистить базу данных</string>
+    <string name="btn_student">Студент</string>
+    <string name="student_info">ФИО: Голдун Михаил Алексеевич\nГруппа: 354</string>
+    <string name="toast_empty">Внимание! Заполните все поля ввода!</string>
+    <string name="toast_saved">Контакт успешно сохранен в БД SQLite!</string>
+    <string name="toast_error">Ошибка при сохранении данных в БД!</string>
+    <string name="toast_cleared">Все контакты удалены из базы данных!</string>
+    <string name="empty_db">В локальной базе данных нет записей</string>
+</resources>

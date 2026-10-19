@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PR_8 通讯录</string>
+    <string name="btn_clear">清空数据库</string>
+    <string name="btn_save">保存到本地数据库</string>
+    <string name="btn_student">学生信息</string>
+    <string name="btn_view">查看已存联系人</string>
+    <string name="empty_db">本地数据库中暂无记录</string>
+    <string name="hint_name">联系人姓名 (例如：戈尔敦·米哈伊尔)</string>
+    <string name="hint_phone">手机号码 (例如：+7 999 123-45-67)</string>
+    <string name="student_info">姓名：戈尔敦·米哈伊尔·阿列克谢耶维奇\n班级：354</string>
+    <string name="title_screen">联系人通讯录 (SQLite / 多语言)</string>
+    <string name="toast_cleared">数据库中的所有联系人已清空！</string>
+    <string name="toast_empty">注意！请完整填写所有输入字段！</string>
+    <string name="toast_error">保存数据时发生错误！</string>
+    <string name="toast_saved">联系人已成功保存至 SQLite 数据库！</string>
+</resources>

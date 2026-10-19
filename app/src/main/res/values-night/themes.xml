@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PR_8" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.PR_8" parent="Base.Theme.PR_8" />
+</resources>

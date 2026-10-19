@@ -1,0 +1,8 @@
+com.example.pr_8.app-pngs-0 C:\Users\Windows\Desktop\ПР_7-10_Голдун_Вар5\Проекты\PR_8\app\build\generated\res\pngs\debug
+com.example.pr_8.app-updated_navigation_xml-1 C:\Users\Windows\Desktop\ПР_7-10_Голдун_Вар5\Проекты\PR_8\app\build\generated\updated_navigation_xml\debug
+com.example.pr_8.app-packageDebugResources-2 C:\Users\Windows\Desktop\ПР_7-10_Голдун_Вар5\Проекты\PR_8\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.pr_8.app-packageDebugResources-3 C:\Users\Windows\Desktop\ПР_7-10_Голдун_Вар5\Проекты\PR_8\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.pr_8.app-debug-4 C:\Users\Windows\Desktop\ПР_7-10_Голдун_Вар5\Проекты\PR_8\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.pr_8.app-debug-5 C:\Users\Windows\Desktop\ПР_7-10_Голдун_Вар5\Проекты\PR_8\app\src\debug\res
+com.example.pr_8.app-main-6 C:\Users\Windows\Desktop\ПР_7-10_Голдун_Вар5\Проекты\PR_8\app\src\main\res
+gradleHome-0 C:\Users\Windows\.gradle

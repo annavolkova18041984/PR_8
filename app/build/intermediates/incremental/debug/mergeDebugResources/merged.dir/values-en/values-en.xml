@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PR_8 Contacts Directory</string>
+    <string name="btn_clear">Clear Database</string>
+    <string name="btn_save">Save to Local Database</string>
+    <string name="btn_student">Student</string>
+    <string name="btn_view">View Saved Contacts</string>
+    <string name="empty_db">No records found in local database</string>
+    <string name="hint_name">Contact name (e.g. Mikhail Goldun)</string>
+    <string name="hint_phone">Phone number (e.g. +7 999 123-45-67)</string>
+    <string name="student_info">Student: Goldun Mikhail Alekseevich\nGroup: 354</string>
+    <string name="title_screen">Contacts Directory (SQLite / Languages)</string>
+    <string name="toast_cleared">All contacts deleted from database!</string>
+    <string name="toast_empty">Warning! Please fill in all fields!</string>
+    <string name="toast_error">Error while saving contact to database!</string>
+    <string name="toast_saved">Contact saved to SQLite database successfully!</string>
+</resources>
